@@ -6,6 +6,7 @@ from setuptools import setup
 setup(
     name='applescript',
     author='daveb@smurfless.com',
+    url='https://github.com/smurfless1/applescript',
     versioning='dev',
     setup_requires=['setupmeta'],
     dependency_links=['https://pypi.org/project/setupmeta'],
